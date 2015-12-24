@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="add">Add player</string>
+    <string name="delete">Del</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="result">Show Result</string>
+    <string-array name="string_array_name">
+        <item>Женя</item>
+        <item>Юля</item>
+        <item>Макс</item>
+        <item>Антон</item>
+        <item>Леша</item>
+        <item>Надя</item>
+        <item>Нина</item>
+        <item>Коля</item>
+        <item>Дима</item>
+        <item>Вова</item>
+        <item>Игрок 1</item>
+        <item>Игрок 2</item>
+    </string-array>
+</resources>
